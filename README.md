@@ -16,9 +16,9 @@
 
 ---
 
-## Estudiante
+## Estudiantes
 
-**Nombre:** Jonathan Humberto Alas Landaverde  
+**Nombres:** Jonathan Humberto Alas Landaverde y Jeremy Odir Fuentes Soriano
 
 ---
 
