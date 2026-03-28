@@ -18,7 +18,9 @@
 
 ## Estudiantes
 
-**Nombres:** Jonathan Humberto Alas Landaverde y Jeremy Odir Fuentes Soriano
+**Nombres:** 
+Jonathan Humberto Alas Landaverde 
+Jeremy Odir Fuentes Soriano
 
 ---
 
@@ -50,10 +52,4 @@ Puede ver el documento completo aquí:
 ### Visualización de detalle
 ![Detalle](./imagenes/4.jpeg)
 
-## Funcionalidad de la aplicación
-
-- Registro de nombre, edad y departamento  
-- Visualización de datos en lista  
-- Selección de elementos para mostrar detalles  
-- Interfaz amigable y organizada  
 
