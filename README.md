@@ -1,6 +1,6 @@
-# Segundo Laboratorio - Android
+# Segundo Laboratorio - Desarrollo Web y Aplicaciones Para Móviles
 
-## 📚 Información general
+## Información general
 
 **Facultad:** Tecnología e innovación  
 **Carrera:** Ingeniería en Sistemas y Computación  
@@ -10,44 +10,36 @@
 
 ---
 
-## 👨‍🏫 Docente
+## Docente
 
 **Ingeniero:** Jonathan Francisco Carballo Castro  
 
 ---
 
-## 👨‍💻 Estudiante
+## Estudiante
 
 **Nombre:** Jonathan Humberto Alas Landaverde  
 
 ---
 
-## 📅 Fecha de entrega
+## Fecha de entrega
 
 27 de Marzo de 2026  
 
 ---
 
-## 📄 Documento del laboratorio
+## Documento del laboratorio
 
-Puedes ver el documento completo aquí:
+Puede ver el documento completo aquí:
 
 👉 [Ver presentación del laboratorio](./Laboratorio2.pdf)
 
 ---
 
-## 📱 Funcionalidad de la aplicación
+## Funcionalidad de la aplicación
 
 - Registro de nombre, edad y departamento  
 - Visualización de datos en lista  
 - Selección de elementos para mostrar detalles  
 - Interfaz amigable y organizada  
-
----
-
-## 🚀 Tecnologías utilizadas
-
-- Kotlin  
-- Android Studio  
-- XML (Layouts)  
 
