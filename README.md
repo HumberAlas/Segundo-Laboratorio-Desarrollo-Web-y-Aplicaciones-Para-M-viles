@@ -1,7 +1,5 @@
 # Segundo Laboratorio - Android
 
-## 📄 Documento del laboratorio
-
 ## Facultad: Tecnología e innovación
 
 ## Carrera: Ingeniería en Sistemas y Computación 
