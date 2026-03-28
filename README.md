@@ -36,6 +36,20 @@ Puede ver el documento completo aquí:
 
 ---
 
+## Evidencias de la aplicación con capturas
+
+### Pantalla inicial
+![Pantalla inicial](./imagenes/1.jpeg)
+
+### Ingreso de datos
+![Ingreso](./imagenes/2.jpeg)
+
+### Nombre agregado a la lista
+![Lista](./imagenes/3.jpeg)
+
+### Visualización de detalle
+![Detalle](./imagenes/4.jpeg)
+
 ## Funcionalidad de la aplicación
 
 - Registro de nombre, edad y departamento  
